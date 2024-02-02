@@ -1,0 +1,18 @@
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.color-text {
+    color: red;
+}
+
+.background {
+    background-color: lightblue;
+    padding: 2px;
+}
+
+.font-style {
+    font-style: italic;
+}
+
